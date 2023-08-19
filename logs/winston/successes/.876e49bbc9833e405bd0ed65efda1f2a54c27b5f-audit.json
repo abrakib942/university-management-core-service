@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\.876e49bbc9833e405bd0ed65efda1f2a54c27b5f-audit.json",
+    "files": [
+        {
+            "date": 1692428563679,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-19-08-13-success.log",
+            "hash": "280841721c1625e72d45ec45e9195d5deca2289a6caaba35bbdaf0a1bc38ef6b"
+        }
+    ],
+    "hashType": "sha256"
+}
