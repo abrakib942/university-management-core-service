@@ -46,12 +46,6 @@ const getAllFromDB = async (
     });
   }
 
-  /**
-   * person = { name: 'fahim' }
-   * name = person[name]
-   *
-   */
-
   const whereConditons: Prisma.AcademicSemesterWhereInput =
     andConditons.length > 0 ? { AND: andConditons } : {};
 
