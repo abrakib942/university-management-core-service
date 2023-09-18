@@ -6,9 +6,34 @@
     "auditLog": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\.876e49bbc9833e405bd0ed65efda1f2a54c27b5f-audit.json",
     "files": [
         {
-            "date": 1692428563679,
-            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-19-08-13-success.log",
-            "hash": "280841721c1625e72d45ec45e9195d5deca2289a6caaba35bbdaf0a1bc38ef6b"
+            "date": 1694866341456,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-16-09-18-success.log",
+            "hash": "034beaee99669997f9b69ff15fef93297e6951fe3f0fb01cefad4e2ae2e66a31"
+        },
+        {
+            "date": 1694872414932,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-16-09-19-success.log",
+            "hash": "2675c9647eb303438066ffaa4e897f974ef2cebb7e1b73fd10381c6dfae3537b"
+        },
+        {
+            "date": 1694884300652,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-16-09-23-success.log",
+            "hash": "b022f6e886e3a64c52acae426bb104031c5a148d8371b3c34bcbb7810931bfc3"
+        },
+        {
+            "date": 1695037198601,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-18-09-17-success.log",
+            "hash": "0f3a163572bb6d72819d3f4ed5930c957b5c90550ff88b87e6ebcc0b116ffa6a"
+        },
+        {
+            "date": 1695038702513,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-18-09-18-success.log",
+            "hash": "96fd942f825968738df25c258312936a827ca6d2a07ae9b6d0809a46236aba57"
+        },
+        {
+            "date": 1695042005007,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\successes\\phu-2023-18-09-19-success.log",
+            "hash": "ca5c06c8c6107c10af36fc699260a334014980fe8ca1c6a79cfad10518c99b3a"
         }
     ],
     "hashType": "sha256"

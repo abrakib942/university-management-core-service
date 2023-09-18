@@ -6,9 +6,34 @@
     "auditLog": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\.48d4c5eedd575bdf640b07affc9375321d77a1d0-audit.json",
     "files": [
         {
-            "date": 1692428563688,
-            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-19-08-13-error.log",
-            "hash": "3f179401b4381dd51503c1eff9d4dfa071c43de0c7dd0af67bd573f1dbaa2168"
+            "date": 1694866341479,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-18-error.log",
+            "hash": "be211ae783af845293b505c08690939127c0f80bd03d7f6fc2ff91dbdd11b49b"
+        },
+        {
+            "date": 1694872414940,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-19-error.log",
+            "hash": "583dbf3a38a45813035d58a18b0cbbacf6e1eb56dd4b9ff8b9019346ebbe4c79"
+        },
+        {
+            "date": 1694884300664,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-23-error.log",
+            "hash": "0daf3b2dcef88676cd1260244647546fa6347e602deb0d8cb857f69a17242964"
+        },
+        {
+            "date": 1695037198615,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-17-error.log",
+            "hash": "449c9a6cfdffdb95ed800104328ff4345cfbb50bdec1e54d86802bb583eccb2d"
+        },
+        {
+            "date": 1695038702520,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-18-error.log",
+            "hash": "89761b7eb67e70a26100604175ae9cb6e5303a54ad2c9e4f6eaeb14e78303405"
+        },
+        {
+            "date": 1695042005015,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-19-error.log",
+            "hash": "6843f6dd7231c2a9ca765bb3c86885737d62e6ce5372f9cf5c795f7ad6919b22"
         }
     ],
     "hashType": "sha256"
