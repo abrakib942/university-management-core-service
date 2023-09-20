@@ -8,11 +8,13 @@ import { AcademicSemesterService } from './academicSemester.service';
 import { AcademicSemesterFilterAbleFileds } from './academicSemeter.constants';
 
 const insertIntoDB = catchAsync(async (req: Request, res: Response) => {
+  console.log('body', req.body);
   const result = await AcademicSemesterService.insertIntoDB(req.body);
+
   sendResponse<AcademicSemester>(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Academic Semster Created!!',
+    message: 'Academic Semseter Created!!',
     data: result,
   });
 });

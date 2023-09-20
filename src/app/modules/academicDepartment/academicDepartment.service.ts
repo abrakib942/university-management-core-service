@@ -4,6 +4,7 @@ import { paginationHelpers } from '../../../helpers/paginationHelper';
 import { IGenericResponse } from '../../../interfaces/common';
 import { IPaginationOptions } from '../../../interfaces/pagination';
 import prisma from '../../../shared/prisma';
+import { RedisClient } from '../../../shared/redis';
 import {
   academicDepartmentRelationalFields,
   academicDepartmentRelationalFieldsMapper,
@@ -20,6 +21,13 @@ const insertIntoDB = async (
       academicFaculty: true,
     },
   });
+
+  if (result) {
+    await RedisClient.publish(
+      'academic-department.created',
+      JSON.stringify(result)
+    );
+  }
 
   return result;
 };

@@ -34,6 +34,41 @@
             "date": 1695042005015,
             "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-19-error.log",
             "hash": "6843f6dd7231c2a9ca765bb3c86885737d62e6ce5372f9cf5c795f7ad6919b22"
+        },
+        {
+            "date": 1695144596139,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-19-09-23-error.log",
+            "hash": "93767f978ffc3faf60dc03cf6aac16cb39e38defe2bcbe9471d0386f2d6fafd4"
+        },
+        {
+            "date": 1695146929315,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-00-error.log",
+            "hash": "79d2cc4a36e9bde3fabb9eb241e8ae870806608b727d8d6783852025cbf6cca3"
+        },
+        {
+            "date": 1695193275401,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-13-error.log",
+            "hash": "363e42cadd4ed45a01d03b78dafc031b5bc65b32a7ecfdb5231f49f89355789a"
+        },
+        {
+            "date": 1695211495949,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-18-error.log",
+            "hash": "25bc8f847eb5d6cd5100dca1f17b7fe0b0aed7d712f9f53fc97e3d2faf70bb76"
+        },
+        {
+            "date": 1695220730193,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-20-error.log",
+            "hash": "431776bdf6311cbd736540ba665434e6827838f0123cdba1c707f5760823c858"
+        },
+        {
+            "date": 1695225275169,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-21-error.log",
+            "hash": "c17364ca08a9eaca4075d75d5682cc71fb14cf1186154afe7c977d2fe8f1da88"
+        },
+        {
+            "date": 1695226848851,
+            "name": "D:\\Apollo PH level2\\university-management-core-service\\logs\\winston\\errors\\phu-2023-20-09-22-error.log",
+            "hash": "58addabc8e9ea18176cd8ece5dc8b2dfac874cabe91f2b5d07c4844183bb792e"
         }
     ],
     "hashType": "sha256"

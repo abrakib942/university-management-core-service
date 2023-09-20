@@ -4,6 +4,7 @@ import { paginationHelpers } from '../../../helpers/paginationHelper';
 import { IGenericResponse } from '../../../interfaces/common';
 import { IPaginationOptions } from '../../../interfaces/pagination';
 import prisma from '../../../shared/prisma';
+import { RedisClient } from '../../../shared/redis';
 import { academicFacultySearchableFields } from './academicFaculty.constants';
 import { IAcademicFacultyFilterRequest } from './academicFaculty.interface';
 
@@ -13,6 +14,13 @@ const insertIntoDB = async (
   const result = await prisma.academicFaculty.create({
     data,
   });
+
+  if (result) {
+    await RedisClient.publish(
+      'academic-faculty.created',
+      JSON.stringify(result)
+    );
+  }
 
   return result;
 };
